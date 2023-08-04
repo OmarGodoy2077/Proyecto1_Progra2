@@ -1,0 +1,3 @@
+.rounded-button {
+    -fx-background-radius: 5px; /* Aplica bordes redondos al fondo del botón */
+}
